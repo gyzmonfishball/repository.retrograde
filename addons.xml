@@ -89,8 +89,15 @@
 			<checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
 		</dir>
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/</datadir>
+		</dir>
+		<dir>
             <info compressed="false">https://github.com/gyzmonfishball/repository.retrograde/raw/master/addons.xml</info>
 			<checksum>https://github.com/gyzmonfishball/repository.retrograde/raw/master/addons.xml.md5</checksum>
 			<datadir zip="true">https://github.com/gyzmonfishball/repository.retrograde/raw/master/</datadir>
+		</dir>
     </extension>
 </addon></addons>
